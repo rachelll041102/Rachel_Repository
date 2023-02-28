@@ -4,13 +4,9 @@ using namespace std;
 class Gun
 {
 public:
-	virtual void shoot()
+	void shoot()
 	{
-		cout << "举起枪开始射击" << endl;
-	}
-	virtual string getname()
-	{
-		return "枪";
+		cout << "使用武器开始杀人" << endl;
 	}
 };
 class Killer
@@ -22,36 +18,26 @@ public:
 	{
 		gun->shoot();
 	}
-	void getGun(Gun* temp_gun)//拿枪
+	void setGun(Gun* temp_gun)
 	{
 		this->gun = temp_gun;
-		cout << "杀手拿起了"<<gun->getname() << endl;
+		cout << "杀手拿起了武器"<< endl;
 	}
 };
 
 class AK47:public Gun
 {
-private:
-	string name;
 public:
-	void shoot()
+	void tutututu()
 	{
-		cout << "举起AK47开始射击" << endl;
-	}
-	string getname()
-	{
-		return "步枪AK47";
+		cout<<"AK47狠狠的扫"<<endl;
 	}
 };
 class Grenade :public Gun
 {
 public:
-	void shoot()
+	void boom()
 	{
-		cout << "把手雷扔出去" << endl;
-	}
-	string getname()
-	{
-		return "手雷";
+		cout << "手雷炸了" << endl;
 	}
 };
