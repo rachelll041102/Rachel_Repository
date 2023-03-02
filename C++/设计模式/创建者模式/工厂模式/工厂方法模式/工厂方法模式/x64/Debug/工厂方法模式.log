@@ -1,17 +1,2 @@
 ﻿  main.cpp
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractfactory.h(7,24): error C2143: 语法错误: 缺少“;”(在“*”的前面)
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractfactory.h(7,24): error C2433: “AbstractFactory::AbstractCoffee”: 不允许在数据声明中使用“virtual”
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractfactory.h(7,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractfactory.h(7,44): error C2238: 意外的标记位于“;”之前
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\coffeestore.h(14,20): error C2039: "createCoffee": 不是 "AbstractFactory" 的成员
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractfactory.h(4): message : 参见“AbstractFactory”的声明
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractfactory.h(5,1): error C2011: “AbstractFactory”:“class”类型重定义
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractfactory.h(4): message : 参见“AbstractFactory”的声明
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractcoffee.h(5,1): error C2011: “AbstractCoffee”:“class”类型重定义
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\abstractcoffee.h(4): message : 参见“AbstractCoffee”的声明
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\americancoffee.h(6,1): error C2504: “AbstractCoffee”: 未定义基类
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\americancoffeefactory.h(6,1): error C2504: “AbstractFactory”: 未定义基类
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\americancoffeefactory.h(10,1): error C2440: “return”: 无法从“AmericanCoffee *”转换为“AbstractCoffee *”
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\americancoffeefactory.h(10,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\main.cpp(13,51): error C2440: “初始化”: 无法从“AmericanCoffeeFactory *”转换为“AbstractFactory *”
-D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\工厂方法模式\main.cpp(13,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  工厂方法模式.vcxproj -> D:\work_data\Git_Repository\Rachel_Repository\C++\设计模式\创建者模式\工厂模式\工厂方法模式\x64\Debug\工厂方法模式.exe

@@ -1,3 +1,4 @@
+#pragma once
 #include<iostream>
 #include"abstractfactory.h"
 #include"americancoffee.h"

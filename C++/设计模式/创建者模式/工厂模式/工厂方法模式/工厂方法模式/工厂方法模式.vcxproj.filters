@@ -35,5 +35,11 @@
     <ClInclude Include="americancoffee.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="lattecoffeefactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lattecoffee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
