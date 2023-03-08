@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对象适配器", "对象适配器\对象适配器.vcxproj", "{D4DA4E23-2052-4FED-8C48-69D42D43B102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Debug|x64.ActiveCfg = Debug|x64
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Debug|x64.Build.0 = Debug|x64
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Debug|x86.Build.0 = Debug|Win32
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Release|x64.ActiveCfg = Release|x64
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Release|x64.Build.0 = Release|x64
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Release|x86.ActiveCfg = Release|Win32
+		{D4DA4E23-2052-4FED-8C48-69D42D43B102}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFEA67D9-EAB8-46DC-99FC-5B2F010578DB}
+	EndGlobalSection
+EndGlobal
