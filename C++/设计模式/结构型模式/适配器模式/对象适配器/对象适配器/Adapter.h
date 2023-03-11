@@ -13,6 +13,6 @@ public:
 	}
 	std::string Json_info()override
 	{
-		return m_xml->xml_info()+"change into json";
+		return m_xml->xml_info()+" change into json";
 	}
 };

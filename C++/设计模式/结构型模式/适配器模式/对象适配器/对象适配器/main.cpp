@@ -10,5 +10,8 @@ int main()
 	JSON* json = new JSON();
 	Adapter* adapter = new Adapter(xml);
 
-	
+	Cilent cl;
+	cl.testing(json);
+	cl.testing(adapter);
+	//cl.testing(xml);
 }
